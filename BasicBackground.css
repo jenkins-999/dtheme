@@ -7839,7 +7839,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	white-space: pre !important;
 	top: 0 !important;
 	left: 0 !important;
-	bottom: unset !important;
+	bottom: unset !mportant;
 	right: unset !important;
 	max-width: unset !important;
 	min-width: unset !important;
