@@ -14,7 +14,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(hhttps://raw.githubusercontent.com/jenkins-999/dtheme/main/BasicBackground.css);
+@import url(https://jenkins-999.github.io/dtheme/BasicBackground.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
